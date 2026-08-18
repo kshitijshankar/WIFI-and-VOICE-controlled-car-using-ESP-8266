@@ -567,10 +567,16 @@ Remote Control · Voice Commands
 ⭐ Project Status
 
 Status: Portfolio Project
+
 Language: C++
+
 Domain: IoT · Robotics · Embedded Systems
+
 Board: ESP8266
+
 Platform: Blynk
+
 Connectivity: Wi-Fi
+
 
 Built with ❤️, C++, ESP8266, Blynk, and Robotics. 🚗🤖
