@@ -579,4 +579,4 @@ Platform: Blynk
 Connectivity: Wi-Fi
 
 
-Built with ❤️, C++, ESP8266, Blynk, and Robotics. 🚗🤖
+ C++, ESP8266, Blynk, and Robotics. 🚗🤖
